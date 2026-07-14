@@ -1,0 +1,28 @@
+# Power BI files are ignored by default because they may embed data.
+*.pbix
+*.pbit
+source_reports/
+.portfolio-git/
+
+# Local Power BI and Fabric artifacts
+**/.pbi/localSettings.json
+**/.pbi/cache.abf
+**/.pbi/unappliedChanges.json
+**/.pbi/editorSettings.json
+
+# Credentials and environment settings
+.env
+.env.*
+*.key
+*.pem
+secrets.*
+
+# Operating system and editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Temporary exports
+~$*
+*.tmp
