@@ -2,13 +2,14 @@
 
 Welcome to my Power BI portfolio. This repository presents selected analytics projects through business questions, data models, DAX measures, report screenshots, and the decisions each report supports.
 
-This portfolio currently includes four report case studies spanning sales and insurance analytics. Screenshots and verified business outcomes will be added after a final privacy review.
+This portfolio includes five report case studies spanning sales, marketing, and insurance analytics.
 
 ## Featured projects
 
 | Project | Business focus | Key capabilities | Case study |
 |---|---|---|---|
 | Contoso Sales Dashboard | Sales, store, and product performance | Multi-page analysis and drill-through | [View project](projects/contoso-sales-dashboard/README.md) |
+| Marketing Analytics | Customer value, segmentation, acquisition, and channel performance | RFM analysis, ROI, LTV, and campaign insights | [View project](projects/marketing-analytics/README.md) |
 | Customer Retention | Insurance customer retention analysis | Retention KPIs and customer insights | [View project](projects/insurance-customer-retention/README.md) |
 | Portfolio Optimisation | Insurance portfolio composition and policy analysis | Portfolio summary and policy drill-through | [View project](projects/insurance-portfolio-optimisation/README.md) |
 | Revenue Insights | Insurance revenue performance and policy analysis | Revenue KPIs and policy drill-through | [View project](projects/insurance-revenue-insights/README.md) |
