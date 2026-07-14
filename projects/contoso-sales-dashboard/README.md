@@ -1,10 +1,12 @@
 # Contoso Sales Dashboard
 
+![Contoso Sales Summary](images/sales-summary.png)
+
 ## Overview
 
 An interactive sales-performance report designed to move from an executive sales summary into store-level and product-level analysis. Dedicated drill-through pages support investigation of individual stores and products.
 
-> Screenshots, verified KPIs, and business outcomes are pending a privacy review of the report.
+The screenshots use the Contoso demonstration dataset and contain no private tenant or customer information.
 
 ## Report pages
 
@@ -31,9 +33,26 @@ An interactive sales-performance report designed to move from an executive sales
 
 ## Gallery
 
-Add sanitized images to `images/` and embed them here after confirming that no confidential data, internal links, or personal information are visible.
+### Sales summary
+
+![Sales summary dashboard](images/sales-summary.png)
+
+### Store performance
+
+![Store performance dashboard](images/store-performance.png)
+
+### Product analysis
+
+![Product analysis dashboard](images/product-analysis.png)
+
+### Store drill-through
+
+![Store drill-through details](images/store-drillthrough.png)
+
+### Product drill-through
+
+![Product drill-through details](images/product-drillthrough.png)
 
 ## Data and privacy
 
 The source PBIX remains private and is excluded from Git. Before publishing screenshots or sample data, confirm that the Contoso dataset is synthetic or licensed for public redistribution.
-

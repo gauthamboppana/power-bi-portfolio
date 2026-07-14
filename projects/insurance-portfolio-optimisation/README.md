@@ -1,10 +1,12 @@
 # Insurance Analytics — Portfolio Optimisation
 
+![Insurance Portfolio Summary](images/portfolio-summary.png)
+
 ## Overview
 
 An insurance portfolio report built to summarize portfolio composition and support detailed policy investigation. The design combines a high-level portfolio view with a dedicated policy drill-through experience.
 
-> Screenshots, exact KPI definitions, findings, and business outcomes are pending validation against the report.
+The report combines customer, policy, premium, product-mix, and cross-selling indicators in a single portfolio view.
 
 ## Report pages
 
@@ -28,9 +30,14 @@ An insurance portfolio report built to summarize portfolio composition and suppo
 
 ## Gallery
 
-Add privacy-safe report images to `images/`. Prefer anonymized or synthetic policy information for any detailed views.
+### Portfolio summary
+
+![Insurance portfolio summary](images/portfolio-summary.png)
+
+### Policy drill-through
+
+![Policy detail drill-through](images/policy-details.png)
 
 ## Data and privacy
 
 The source PBIX remains private and is excluded from Git. Policy identifiers, customer data, pricing, exposure, claims, and other commercially sensitive values must be removed or replaced before publication.
-

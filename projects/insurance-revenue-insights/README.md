@@ -1,10 +1,12 @@
 # Insurance Analytics — Revenue Insights
 
+![Insurance Revenue Insights](images/revenue-insights.png)
+
 ## Overview
 
 An insurance revenue report designed to highlight revenue performance and enable investigation of the policies behind the results. A dedicated drill-through page connects summary indicators to policy-level detail.
 
-> Screenshots, exact KPI definitions, findings, and business outcomes are pending validation against the report.
+The report analyzes earned premium by product type, vehicle type, policy type, and reporting period, with supporting policy-level detail.
 
 ## Report pages
 
@@ -28,9 +30,14 @@ An insurance revenue report designed to highlight revenue performance and enable
 
 ## Gallery
 
-Add privacy-safe report images to `images/`. Replace sensitive policy or revenue values with synthetic or indexed values where necessary.
+### Revenue insights
+
+![Insurance revenue insights dashboard](images/revenue-insights.png)
+
+### Policy drill-through
+
+![Policy detail drill-through](images/policy-details.png)
 
 ## Data and privacy
 
 The source PBIX remains private and is excluded from Git. Policy identifiers, customer data, premium or revenue values, internal targets, and commercially sensitive details must be reviewed before publication.
-

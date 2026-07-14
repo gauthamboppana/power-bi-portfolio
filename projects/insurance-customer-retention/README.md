@@ -1,10 +1,12 @@
 # Insurance Analytics — Customer Retention
 
+![Customer Retention Dashboard](images/customer-retention.png)
+
 ## Overview
 
 An insurance analytics report focused on understanding customer retention and presenting the indicators that help identify retention patterns and potential areas for action.
 
-> Screenshots, exact KPI definitions, findings, and business outcomes are pending validation against the report.
+The dashboard demonstrates customer, churn, retention, and expiring-policy analysis using portfolio data prepared for this project.
 
 ## Report pages
 
@@ -27,9 +29,10 @@ An insurance analytics report focused on understanding customer retention and pr
 
 ## Gallery
 
-Add privacy-safe report images to `images/`. Use synthetic or anonymized values if the original report contains customer, policy, or commercially sensitive information.
+### Customer retention
+
+![Customer retention dashboard](images/customer-retention.png)
 
 ## Data and privacy
 
 The source PBIX remains private and is excluded from Git. Do not publish customer identifiers, policy details, personally identifiable information, internal targets, or confidential retention figures.
-
